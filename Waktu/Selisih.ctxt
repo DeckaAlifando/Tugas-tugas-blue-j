@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Selisih()
+comment1.params=jam1\ menit1\ detik1\ jam2\ menit2\ detik2
+comment1.target=Selisih(int,\ int,\ int,\ int,\ int,\ int)
+comment2.params=jam
+comment2.target=void\ setJam(int)
+comment3.params=menit
+comment3.target=void\ setMenit(int)
+comment4.params=detik
+comment4.target=void\ setDetik(int)
+comment5.params=
+comment5.target=void\ hitungSelisih()
+comment6.params=
+comment6.target=void\ cetak()
+numComments=7

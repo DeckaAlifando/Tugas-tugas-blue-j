@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Waktu()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Waktu\r\n
+comment1.params=jam\ menit\ detik
+comment1.target=Waktu(int,\ int,\ int)
+comment2.params=jam
+comment2.target=void\ setJam(int)
+comment3.params=menit
+comment3.target=void\ setMenit(int)
+comment4.params=detik
+comment4.target=void\ setDetik(int)
+comment5.params=
+comment5.target=void\ JamUp()
+comment6.params=
+comment6.target=void\ MenitUp()
+comment7.params=
+comment7.target=void\ DetikUp()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
